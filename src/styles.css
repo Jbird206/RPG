@@ -1,0 +1,61 @@
+body {
+    background-image: url(https://d3hg7snzn13jf0.cloudfront.net/files/kanko/2566/2566--7fec5f2c40ef3867dd452ac6f27de14b.jpg);
+    background-repeat: no-repeat;
+    background-size:2650px 1500px; /* width height */
+
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.container2 {
+    background-color: rgb(22, 212, 149);
+    
+    
+}
+
+#topRow {
+    background-color: grey;
+    height: 500px;
+    opacity: 0.8;
+}
+
+.v1 {
+    border-left: 3px solid blue;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 0;
+}
+
+.v2 {
+    border-left: 3px solid blue;
+    height: 450px;
+    position: absolute;
+    left: 50%;
+    margin-left: -3px;
+    top: 50px;
+}
+
+.v3 {
+    border-right: 3px solid blue;
+    height: 500px;
+    position: absolute;
+    right: 42%;
+    margin-right: -3px;
+    top: 0;
+}
+
+#enemy {
+    text-align: right;
+}
+
+#NewChar {
+    text-align: center
+}
+
+
+
